@@ -25,7 +25,7 @@
 ```
 
 ```bash
-> cd Jockerwap
+> cd sbwap
 > bash install.sh
 ```
 
@@ -36,8 +36,8 @@
 
 
 ## Special Thanks To
-* [ KILLADY JOCKER FFC ](http://kckjoker.github.io) 
+* [ KILLADY FAVAS SB FFC ](http://kckSB999FVZ.github.io) 
 
 ## Sosmed
-* [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
-* [`WhatsApp Admin`](http://wa.me/916282670349)
+* [`Instagram admin`](https://www.instagram.com/?r=nametag)
+* [`WhatsApp Admin`](http://wa.me/919072035079)
